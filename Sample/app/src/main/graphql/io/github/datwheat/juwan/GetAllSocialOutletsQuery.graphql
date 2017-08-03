@@ -1,0 +1,12 @@
+query GetAllSocialOutletsQuery{
+  socialOutlets: allSocialOutlets(orderBy: createdAt_ASC) {
+    ...SocialOutletFragment
+  }
+}
+
+fragment SocialOutletFragment on SocialOutlet {
+  id
+  url
+  imageURL
+  name
+}

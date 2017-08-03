@@ -1,0 +1,12 @@
+query GetAllSkillsQuery{
+  skills: allSkills(orderBy: progress_DESC) {
+    ...SkillFragment
+  }
+}
+
+fragment SkillFragment on Skill {
+  id
+  progress
+  name
+  color
+}

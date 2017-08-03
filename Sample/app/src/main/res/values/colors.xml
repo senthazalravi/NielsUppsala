@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="purpleHeart">#5D26C2</color>
+    <color name="indigo">#FF651fff</color>
+    <color name="manila">#FFFFCC80</color>
+    <color name="amber">#FFC107</color>
+    <color name="background_light">#F0F0F0</color>
+    <color name="grey_text">#B1B1B1</color>
+</resources>

@@ -1,0 +1,13 @@
+query GetAllProjectsQuery{
+  projects: allProjects(orderBy: name_ASC) {
+    ...ProjectFragment
+  }
+}
+
+fragment ProjectFragment on Project {
+  url
+  id
+  imageURL
+  description
+  name
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Juwan.</string>
+    <string name="juwan_description">Developer by day, dreamer by night.</string>
+    <string name="profile_picture_content_description">Profile Picture</string>
+    <string name="go_button_text">GO</string>
+    <string name="card_image_content_description">Card Image</string>
+    <string name="about_me_content">
+        As a lifelong learner, I love to experiment with new tech and build cool things.
+        \n\nYou can find me tinkering with React Native and Android in my free time.
+        \n\nI’m currently a student at Towson Universty pursuing a B.S. in Computer Science.
+        \n\nI really appreciate you taking the time to learn about me — thanks!
+    </string>
+    <string name="about_me_intro">Hi, I\'m Juwan</string>
+    <string name="work_activity_toolbar_title">Work</string>
+    <string name="skills_activity_toolbar_title">Skills</string>
+    <string name="project_name">PÜL</string>
+    <string name="project_description">A carpooling app designed for students to help each other get more involved in their community.</string>
+    <string name="project_image_content_description">Project Image</string>
+    <string name="social_outlet_image_description">Social Outlet Image</string>
+    <string name="social_activity_toolbar_title">Social</string>
+</resources>
